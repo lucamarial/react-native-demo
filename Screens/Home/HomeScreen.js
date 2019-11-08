@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 export default class HomeScreen extends React.Component {
   render() {
     return (
-      <View style={style.container}>
+      <View style={styles.container}>
         <Text> Hello World!!! </Text>
       </View>
     )
